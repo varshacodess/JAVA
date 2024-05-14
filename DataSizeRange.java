@@ -1,4 +1,4 @@
-public class DataSzieRange {
+public class DataSizeRange {
     public static void main(String[] args) {
         System.out.println("Maximum size of Integer: "+Integer.MAX_VALUE);
         System.out.println("Minimum size of Integer: "+Integer.MIN_VALUE);
